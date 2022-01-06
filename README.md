@@ -1,3 +1,6 @@
+## Acknowledgement
+This material is based upon work supported by the U.S. Department of Energy's Office of Energy Efficiency and Renewable Energy (EERE) under the Generation 3 Concentrated Solar Power (CSP) Systems award number DE-EE0008380.
+
 ## 1. General description
 This is a cellular automata program to simulate the diffusion of corrosive agents and the reaction between materials and agents. Thickness, roughness, and contents are computed during the simulation. Users can specify the problem via input cards. A GUI is used to display the simulation results in real time.  Keyboard interactions with the program is provided as well.
 
@@ -54,3 +57,4 @@ cellular-automata-corrosion
     - `python3 ratio.py` 
     - `python3 roughness.py` 
     - `python3 thickness.py`
+
